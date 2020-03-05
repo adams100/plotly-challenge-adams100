@@ -9,5 +9,8 @@ Run app.py file located in the below folder:<br>
 plotly-challenge-adams100/StarterCode/Belly_Button_Biodiversity/app.py<br>
 Navigate to: http://localhost:5000 in a web browser<br>
 <br>
-Project shows implementation of plotly interactive graphs via connection to a database and displayed on a web frontend.
-
+Project shows implementation of plotly interactive graphs via connection to a database and displayed on a web frontend.<br>
+<br>
+Below images show the displayed dashboard:<br>
+![Dashboard](dashboard1.JPG)<br>
+![Dashboard](dashboard2.JPG)
